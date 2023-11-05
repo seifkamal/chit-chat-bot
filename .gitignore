@@ -1,0 +1,6 @@
+node_modules
+.tool-versions
+.env
+
+# App
+conversation.json
